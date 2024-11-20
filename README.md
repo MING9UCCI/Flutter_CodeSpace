@@ -1,2 +1,2 @@
 # Flutter_CodeSpace
-## This repository is solely for studying Flutter.
+* This repository is solely for studying Flutter.
